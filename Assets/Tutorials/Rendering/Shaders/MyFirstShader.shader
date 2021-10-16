@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "Unlit/Textured With Detail"
+Shader "Unlit/MyFirstShader"
 {
 	// 这个属性是会在 Material Inspector 中显示出来的，用于交互的面板
 	Properties{
